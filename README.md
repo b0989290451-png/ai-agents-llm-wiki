@@ -5,6 +5,8 @@
 NCCU 生成式 AI 課程第十週作業：先討論、後生成，建立可查詢 Wiki；再從 Wiki 資料製作教學 HTML 簡報，並交付 Graph、檢查紀錄與反思。
 
 ## Wiki
+- [可搜尋 Wiki 網頁](wiki.html)（GitHub Pages：`/wiki.html`）
+- 簡報引用已改為連結到 Wiki 網頁內的證據卡，而非直接顯示 `.md` 原始文字。
 - [Wiki 首頁](wiki/index.md)｜[S01–S05 摘要](sources/)
 - 已準備五篇官方來源的**轉述摘要及證據卡**；不是將完整網頁原文下載存檔。
 - `python scripts/query.py "workflow"`：字詞檢索 Wiki 摘要和證據卡。

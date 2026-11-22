@@ -12,6 +12,11 @@ NCCU 生成式 AI 課程第十週作業：先討論、後生成，建立可查�
 - `python scripts/query.py "workflow"`：字詞檢索 Wiki 摘要和證據卡。
 - `python scripts/validate.py`：檢查已建立的證據卡與 HTML 結構（不能代替人工審核）。
 
+## 作業證據
+- [完整執行、檢查、反思報告](reports/final-evidence.md)
+- [第一次靜態檢查紀錄](reports/validation.md)
+- [12 頁教學大綱](outline.md)
+
 ## 工作流程
 見 [AGENTS.md](AGENTS.md) 與 [SKILL.md](SKILL.md)。
 
@@ -22,7 +27,7 @@ NCCU 生成式 AI 課程第十週作業：先討論、後生成，建立可查�
 - [x] 簡報大綱人工確認
 - [x] HTML 教學簡報（12 頁，已通過基本靜態檢查）
 - [ ] 瀏覽器互動、渲染測試、忠實度審核與反思
-- [ ] GitHub Pages 網頁公開
+- [x] GitHub Pages 已由使用者設定並提供網頁截圖；最新版引用跳轉仍待確認
 
 ## 官方資料
 1. [OpenAI Practical Guide](https://openai.com/business/guides-and-resources/a-practical-guide-to-building-ai-agents/)
